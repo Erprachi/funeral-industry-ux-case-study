@@ -1,6 +1,6 @@
 # Case Study: High-Performance Funeral Service Ecosystem
 **Role:** Lead Website Designer & WordPress Developer  
-**Experience:** 5+ Years in Web Industry
+**Experience:** 3+ Years in Web Industry
 
 ## Project Overview
 Designing for the funeral industry requires a unique balance of **professionalism, serenity, and high usability**. I have designed and developed 4 distinct websites in this niche, focusing on providing a calm user experience for families in grief.
