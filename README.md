@@ -12,7 +12,7 @@ Maine in 4ro projects mein alag-alag design languages use ki hain taaki har clie
 - **vibe:** Trust aur Heritage.
 - **Design:** Deep Blue aur Gold accents ka use kiya hai.
 - **Focus:** Detailed navigation jisme "Guidance" aur "Memorial Ideas" par focus hai.
-![Twickenham Project]
+![Twickenham Site](Twickenham-and-South-London-Funeral-Planning-Advice-05-04-2026_01_18_PM.png)
 
 ### Site 2: Craddock & Russell
 - **Vibe:** Classic & Minimalist.
@@ -24,13 +24,13 @@ Maine in 4ro projects mein alag-alag design languages use ki hain taaki har clie
 - **Vibe:** Peace aur Freedom.
 - **Design:** Natural imagery (Landscapes) aur airy white space ka balance.
 - **Focus:** Emotional comfort aur simple service booking.
-![Sussex Project]
+![Sussex Site](Direct-Cremation-in-Sussex-Affordable-Caring-Service-05-04-2026_01_20_PM.png)
 
 ### Site 4: Surrey & Surrey Direct
 - **Vibe:** Modern & Empathetic.
 - **Design:** Card-based layout aur soft imagery.
 - **Focus:** Complex information ko asani se digest karne layak banana.
-![Surrey Project]
+![Surrey Site](Surrey-Funeral-Directors-Funeral-Planning-Advice-05-04-2026_01_21_PM.png)
 
 ## 2. Technical Implementation
 Ek developer ke taur par, maine in sites ko sirf sundar hi nahi, balki **Robust** banaya hai:
