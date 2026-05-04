@@ -18,7 +18,7 @@ Maine in 4ro projects mein alag-alag design languages use ki hain taaki har clie
 - **Vibe:** Classic & Minimalist.
 - **Design:** Clean layout jisme "Direct Cremation" ki pricing ko highlight kiya gaya hai.
 - **Focus:** Quick information delivery taaki user ko turant clear options milein.
-![Craddock Project]
+![Craddock & Russell Site](Craddock-Russell-Direct-Cremations-Craddockandrusselldirectcremations-05-04-2026_01_19_PM.png)
 
 ### Site 3: Sussex Direct Cremation
 - **Vibe:** Peace aur Freedom.
